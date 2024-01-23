@@ -1,0 +1,10 @@
+There are two types of data types
+        1. Primitive Datatype
+        2. Non Primitive Datatype
+
+Primitive Datatype: There are 7 Primitive Datatypes  - String, Boolean, Number, symbol, null, undefined
+                                                       Bigint
+                    
+Non Primitive Datatype(reference): There are 3 Non Primitive Datatypes - Arrays, functions, objects
+
+# Javascript is a dynamically typed language
