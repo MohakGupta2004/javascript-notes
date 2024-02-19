@@ -17,7 +17,7 @@ console.log(addOne(5))
 one()
 
 
-//Hoisting - Basically you can't access a function before it's declaration if you are using an expression
+//Hoisting - Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. (Basically you can't access a function before it's declaration if you are using an expression)
 // variable() - it'll show error
 const variable = function(){
     console.log("I'm using this variable")
